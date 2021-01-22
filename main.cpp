@@ -6,7 +6,7 @@
 #include "TextureManager.h"
 #undef main
 
-int test = 0;
+
 SDL_Texture* Turn::turn = 0;
 SDL_Renderer* TextureManager::renderer = nullptr;
 int main(int argc, const char* argv[]) {
