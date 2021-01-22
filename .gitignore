@@ -1,0 +1,7 @@
+*.exe
+*.dll
+x64
+.vs
+*.vcxproj*
+*.psd
+assets
