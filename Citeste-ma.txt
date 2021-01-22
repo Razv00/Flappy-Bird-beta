@@ -1,0 +1,2 @@
+Am facut un sistem de error-checking folosing try-catch in TextureManager
+Scorul maxim il citesc si il compar cu cel actual si dupa il scriu din nou in "assets/HighScore.txt"
